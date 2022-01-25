@@ -3,7 +3,7 @@
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Data Colelction](#data collection)
+  * [Data Collection](#data collection)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
