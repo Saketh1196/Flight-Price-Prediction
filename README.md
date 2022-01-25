@@ -5,7 +5,7 @@
   * [Overview](#overview)
   * [Data Collection](#data-collection)
   * [Installation](#installation)
-  * [(Description)](#description)
+  * [Description](#description)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   
