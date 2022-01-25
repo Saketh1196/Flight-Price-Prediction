@@ -5,6 +5,7 @@
   * [Overview](#overview)
   * [Data Collection](#data-collection)
   * [Installation](#installation)
+  * [(Description)](#description)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   
@@ -14,7 +15,7 @@ Link: [https://flightfare96.herokuapp.com/](https://flightfare96.herokuapp.com/)
 
 [![](https://i.imgur.com/ZZCaq3J.png)](https://flightfare96.herokuapp.com/)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://flightfare96.herokuapp.com/)
+[![](https://i.imgur.com/VtLJWfu.png?3)](https://flightfare96.herokuapp.com/)
 
 ## Overview
 This is an end to end Machine Learning Flight Fare Prediction Project developed and implemented using Flask web app and deployed on the Cloud Platform Heroku.
@@ -27,6 +28,10 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ```bash
 pip install -r requirements.txt
 ```
+## Description
+
+1. This project takes the parameters like Dwparture Time, Departure Date, Arrival Time, Arrival Date, Source, Destination, Stops and Airline.
+2. It then predicts the estimated fare of the flight. 
 
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
