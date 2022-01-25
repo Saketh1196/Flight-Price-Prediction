@@ -3,7 +3,7 @@
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Data Collection](#data collection)
+  * [Data Collection](#data-collection)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
@@ -12,7 +12,7 @@
 ## Demo
 Link: [https://flightfare96.herokuapp.com/](https://flightfare96.herokuapp.com/)
 
-[![](https://i.imgur.com/M8Kcjre.png)](https://flightfare96.herokuapp.com/)
+[![](https://i.imgur.com/ZZCaq3J.png)](https://flightfare96.herokuapp.com/)
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://flightfare96.herokuapp.com/)
 
