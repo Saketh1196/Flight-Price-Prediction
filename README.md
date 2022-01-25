@@ -12,7 +12,7 @@
 ## Demo
 Link: [https://flightfare96.herokuapp.com/](https://flightfare96.herokuapp.com/)
 
-[![]https://imgur.com/a/Cfq2sQw)](https://flightfare96.herokuapp.com/)
+[![]https://i.imgur.com/M8Kcjre.png)](https://flightfare96.herokuapp.com/)
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://flightfare96.herokuapp.com/)
 
